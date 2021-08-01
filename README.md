@@ -8,7 +8,7 @@ Going through the [rust lang book](https://doc.rust-lang.org/stable/book/ch01-02
      rustc nameOfFileYouWantToCompile.rs
      ```
 
-    > With nested files use 
+      With nested files use 
      ```
      rustc ./foldername/foldername/file.rs
      ```
