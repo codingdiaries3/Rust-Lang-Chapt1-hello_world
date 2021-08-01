@@ -11,6 +11,6 @@ Going through the [rust lang book](https://doc.rust-lang.org/stable/book/ch01-02
      ```
      ./nameOfFile.exe
      ```
-     note:use '.exe' for windows
+     note: for windows add '.exe' and for linux or macOS exclude '.exe'
 
 2. The "!" calls a rust macro. Without the exclamation point you're calling the function
