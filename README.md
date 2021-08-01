@@ -5,7 +5,7 @@ Going through the [rust lang book](https://doc.rust-lang.org/stable/book/ch01-02
 1. To run a rust program 
      - First compile using 
      ``` 
-     rustc nameOfFileYouWantToCompile
+     rustc nameOfFileYouWantToCompile.rs
      ```
      - Then run using
      ```
