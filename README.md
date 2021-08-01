@@ -7,10 +7,15 @@ Going through the [rust lang book](https://doc.rust-lang.org/stable/book/ch01-02
      ``` 
      rustc nameOfFileYouWantToCompile.rs
      ```
-     - Then run using
+
+     note: With nested files use 
+     ```
+     rustc ./foldername/foldername/file.rs
+     ```
+     - Then execute using
      ```
      ./nameOfFile.exe
      ```
-     note: for windows add '.exe' and for linux or macOS exclude '.exe'
+     note: For windows add '.exe' and for linux or macOS exclude '.exe'
 
 2. The "!" calls a rust macro. Without the exclamation point you're calling the function
